@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋 New to programming and Github
+Currently learning basic Java
 
 <!--
 **ANDavis3907/ANDavis3907** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
