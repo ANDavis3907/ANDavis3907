@@ -41,6 +41,7 @@ My perspective on software is influenced by a hands-on background in mechanical 
 
 
 📬 Contact & Connect
+
 Email: ANDavis3907@Gmail.com
 
 LinkedIn: https://www.linkedin.com/in/andavis3907/
