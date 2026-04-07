@@ -43,7 +43,7 @@ My perspective on software is influenced by a hands-on background in mechanical 
 📬 Contact & Connect
 Email: ANDavis3907@Gmail.com
 
-LinkedIn: linkedin.com/in/ANDavis3907 
+LinkedIn: https://www.linkedin.com/in/andavis3907/
 <!--
 **ANDavis3907/ANDavis3907** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
