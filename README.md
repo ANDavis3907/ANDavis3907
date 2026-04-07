@@ -3,9 +3,7 @@ Alexis Davis
 Software Engineer | A.S. Computer Science (TESU)
 
 
-I am a Software Engineer focused on the intersection of low-level logic and modern full-stack integration. My approach to software is rooted in a curiosity for how systems function under the hood, 
-
-whether I'm managing memory manually in C or architecting real-time data flows with AI.
+I am a Software Engineer focused on the intersection of low-level logic and modern full-stack integration. My approach to software is rooted in a curiosity for how systems function under the hood, whether I'm managing memory manually in C or architecting real-time data flows with AI.
 
 
 🛠 Technical Stack
@@ -23,9 +21,7 @@ Environment: Git, Linux/Nix, VS Code, Tailwind CSS
 
 EHVolvoMoves
 
-JavaScript | AI | Firebase Developed a mobile-optimized inventory system that replaces manual tracking with an automated digital workflow. It utilizes the Gemini 2.5 Flash API for intelligent data extraction from vehicle 
-
-tags and Firestore for real-time synchronization across devices.
+JavaScript | AI | Firebase Developed a mobile-optimized inventory system that replaces manual tracking with an automated digital workflow. It utilizes the Gemini 2.5 Flash API for intelligent data extraction from vehicle tags and Firestore for real-time synchronization across devices.
 
 
 EmployeeManagementSystem
