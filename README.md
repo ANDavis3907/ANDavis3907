@@ -37,6 +37,13 @@ C | Systems Programming A deep dive into manual memory management. This project 
 ⚓ The Engineering Mindset
 
 My perspective on software is influenced by a hands-on background in mechanical troubleshooting. I treat code like a high-performance system: every component should have a clear purpose, and the architecture should be optimized for reliability and efficiency. I am a firm believer in continuous iteration and staying close to the "metal" to write better, more effective software.
+
+
+
+📬 Contact & Connect
+Email: ANDavis3907@Gmail.com
+
+LinkedIn: linkedin.com/in/ANDavis3907 
 <!--
 **ANDavis3907/ANDavis3907** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
