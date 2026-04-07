@@ -1,42 +1,46 @@
-Alexis Davis | Software Engineer
-Computer Science Graduate (TESU) | Full Stack & Plugin Developer
+Alexis Davis
 
-I am a results-driven Software Engineer with a focus on building scalable applications and robust back-end systems. My background spans low-level memory management in C/C++ to high-level integration with AI and cloud-based databases. I specialize in turning complex operational requirements into efficient, maintainable code.
+Software Engineer | A.S. Computer Science (TESU)
 
 
-🛠 Technical Core
+I am a Software Engineer focused on the intersection of low-level logic and modern full-stack integration. My approach to software is rooted in a curiosity for how systems function under the hood, 
 
-Languages: C, C++, Java, Python, JavaScript
+whether I'm managing memory manually in C or architecting real-time data flows with AI.
+
+
+🛠 Technical Stack
+
+Languages: C, C++, Java, Python, JavaScript (ES6+)
 
 Backend & Database: Firebase (Firestore, Auth), Node.js, File I/O Persistence
 
-AI & APIs: Google Gemini SDK (Generative AI), RESTful Integration
+AI & Integration: Google Gemini SDK, RESTful APIs
 
-Tools & Environment: Git/GitHub, Linux/Nix, VS Code, Tailwind CSS
+Environment: Git, Linux/Nix, VS Code, Tailwind CSS
 
 
-📂 Featured Repositories
+📂 Featured Projects
 
 EHVolvoMoves
-Full Stack | AI | JavaScript An intelligent inventory tracking system utilizing Gemini AI for automated vehicle data extraction and Firebase for real-time synchronization. Optimized for mobile-first operational environments.
 
-EmployeeInfo
-C++ | Object-Oriented Programming A multi-tier management hierarchy demonstrating Polymorphism and Inheritance. Features secure role-based access control and flat-file data serialization.
+JavaScript | AI | Firebase Developed a mobile-optimized inventory system that replaces manual tracking with an automated digital workflow. It utilizes the Gemini 2.5 Flash API for intelligent data extraction from vehicle 
+
+tags and Firestore for real-time synchronization across devices.
+
+
+EmployeeManagementSystem
+
+C++ | Object-Oriented Programming A robust management hierarchy demonstrating Polymorphism and Inheritance. I built this to handle complex role-based access control and persistent data storage using custom file-handling routines.
+
 
 UDLinkList
-C | Systems Programming A custom implementation of a singly linked list focusing on manual heap management (malloc/free) and pointer arithmetic.
+
+C | Systems Programming A deep dive into manual memory management. This project focuses on pointer arithmetic and the implementation of dynamic data structures without the safety net of high-level abstractions.
 
 
-📈 Continuous Development
+⚓ The Engineering Mindset
 
-I am currently expanding my expertise in:
-
-Advanced Java Design Patterns: Improving modularity in complex systems.
-
-Plugin Architecture: Developing extensible tools for gaming and productivity environments.
-
-System Optimization: Refining performance in low-resource C-based applications.
-
+My perspective on software is influenced by a hands-on background in mechanical troubleshooting. I treat code like a high-performance system: every component should have a clear purpose, and the architecture should be optimized for reliability and efficiency. I am a firm believer in continuous iteration and staying close to the "metal" to write better, more effective software.
 <!--
 **ANDavis3907/ANDavis3907** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
